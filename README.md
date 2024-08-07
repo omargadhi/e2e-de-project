@@ -1,4 +1,4 @@
-# Realtime Data Streaming | End-to-End Data Engineering Project
+Real Time Streaming - Data Engineering Project
 
 ## Table of Contents
 
