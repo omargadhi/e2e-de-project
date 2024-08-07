@@ -16,7 +16,7 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
-![System Architecture](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
+![System Architecture](https://github.com/omargadhi/e2e-de-project/blob/main/Data%20engineering%20architecture.png?raw=true)
 
 The project is designed with the following components:
 
@@ -52,7 +52,7 @@ The project is designed with the following components:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/airscholar/e2e-data-engineering.git
+   git clone https://github.com/omargadhi/e2e-de-project.git
    ```
 
 2. Navigate to the project directory:
